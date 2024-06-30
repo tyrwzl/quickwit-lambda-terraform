@@ -1,0 +1,3 @@
+[submodule "quickwit"]
+	path = quickwit
+	url = https://github.com/quickwit-oss/quickwit
